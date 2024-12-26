@@ -1,1 +1,1 @@
-# moon-travel-reservation-system
+my project is moon travel reservation system this project computes the ticket booking for travelling around moon or in lunar south pole .The code is written in c and has been tested on hp laptop 15 -fd0xxx with devc++ version (under GNU general public license)
